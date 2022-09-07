@@ -1,6 +1,6 @@
 # CryptBox
 
-For comprehensive documentation, see the Project 2 Spec (https://proj2.cs161.org/getting-started-coding/).
+For comprehensive documentation, see the specifications (https://sp22.cs161.org/proj2/story/).
 
 Implementation (Go) is in `client/client.go`, and your tests in `client_test/client_test.go`.
 
